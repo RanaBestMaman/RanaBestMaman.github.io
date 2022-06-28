@@ -1,0 +1,16 @@
+*{
+    margin: 30;
+    padding: 0;
+    text-align: center;
+}
+h1{
+    color: #ffd700;
+    size: 50px;
+}
+p{
+    color: #ffd700;
+    size: 30px;
+}
+body{
+    background: black;
+}
